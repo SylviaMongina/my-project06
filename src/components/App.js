@@ -1,25 +1,50 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
-function App() {
+function Footer() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="contact" className="footer">
+       <a id="jumpHere"></a>
+
+<div className="container">
+  <div className="row">
+    <div className="footer-col-3">
+      <h3>Contacts</h3>
+      <p>We are located along Magadi Road Dolpin Plaza<br/> call us on</p>
+     <ul>
+      <li>+254729618721 Kiserian </li>
+      <li>+254712345678 Rongai</li>
+
+      <li>email <a href="">sylviamonginab@gmail.com</a>
+      </li>
+
+     </ul>
     </div>
-  );
+    <div className="footer-col-3">
+      <h3>useful links</h3>
+     <ul>
+      <li>Coupons</li>
+      <li>Blog Post</li>
+      <li>Return Policy</li>
+      <li>Coupons</li>
+      <li>Be Affiliate</li>
+     </ul>
+    </div>
+    <div className="footer-col-4">
+      <h3>Follow us</h3>
+     <ul>
+      <li><a href="">Facebook</a></li>
+      <li><a href="">Twitter</a></li>
+      <li><a href="">Instagram</a></li>
+      <li><a href="">YouTube</a></li>
+     </ul>
+    </div>
+  </div>
+  
+  <p className="copyright" >copright@2022-Sylvia Mongina</p>
+</div>
+
+    </div>
+  )
 }
 
-export default App;
+export default Footer;
