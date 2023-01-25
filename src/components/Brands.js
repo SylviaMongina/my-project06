@@ -1,24 +1,19 @@
 import React from 'react'
-import NavBar from './NavBar'
 
-
-function Banner({newArray}) {
+function Brands({brandsList}) {
   return (
-    <div className='header'>
-      <div className='container'>
-        <NavBar newArray={newArray}/>
-        <div class="col-2 row row-1 " >
-        <div class=" col-header">
-          <h1>WAKULIMA MART</h1>
-          <h2>Your Farming Partner </h2>
-          <p>All your farm Chemicals & Equipments in one place  </p>
-          <a href="#products"class='btn'>Expore Now &#10142; </a>
-        </div>
-       
+    <div className="brands">
+      <div className="small-container">
+      <div className="row">
+        {brandsList.map(brand=>{
+          return<div className="col-5">
+            <img key={brand.id} src={brand.image} alt=""/>
+          </div>
+        })}
       </div>
       </div>
     </div>
   )
 }
 
-export default Banner
+export default Brands;
