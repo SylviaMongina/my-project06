@@ -9,9 +9,6 @@ function Body({itemList,pushItem}) {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
 
- 
-
-
   // setPushedItem(newArray)
   // console.log(pushedItem)
 
