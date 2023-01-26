@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes, NavLink } from "react-router-dom";
+//import { BrowserRouter, Route, Routes, NavLink } from "react-router-dom";
 import React,{useEffect,useState} from 'react';
 import '../App.css';
 import Banner from "./Banner"
@@ -12,7 +12,7 @@ import Footer from './Footer';
 function App() {
   const [itemList,setItemList]=useState([])
   const [brandsList,setBrandsList]=useState([])
-  const [nwArray,setNewArray]=useState([])
+  //const [nwArray,setNewArray]=useState([])
 
   const newArray=[]
 
