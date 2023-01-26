@@ -11,10 +11,11 @@ function Footer() {
       <h3>Contacts</h3>
       <p>We are located along Magadi Road Dolpin Plaza<br/> call us on</p>
      <ul>
-      <li>+254729618721 Kiserian </li>
-      <li>+254712345678 Rongai</li>
+      <li> +254729618721 Kiserian </li>
+      <li> +254712345678 Rongai</li>
 
       <li>email <a href="">sylviamonginab@gmail.com</a>
+      
       </li>
 
      </ul>
@@ -32,10 +33,10 @@ function Footer() {
     <div className="footer-col-4">
       <h3>Follow us</h3>
      <ul>
-      <li><a href="">Facebook</a></li>
-      <li><a href="">Twitter</a></li>
-      <li><a href="">Instagram</a></li>
-      <li><a href="">YouTube</a></li>
+      <li><a href="https://www.facebook.com/">Facebook</a></li>
+      <li><a href="https://twitter.com/i/flow/login">Twitter</a></li>
+      <li><a href="https://www.instagram.com/accounts/login/">Instagram</a></li>
+      <li><a href="https://www.youtube.com/">YouTube</a></li>
      </ul>
     </div>
   </div>
