@@ -1,3 +1,9 @@
+# PHASE 2 PROJECT
+# AUTHOR : SYLVIA MONG'INA BOSIRE
+
+# Introduction 
+Wakulima Mart is an e-commerce site that allows farmers to buy farm products at an affordable price from the comfort of their homes using a phone or laptop on the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
