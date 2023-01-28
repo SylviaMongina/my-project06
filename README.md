@@ -22,6 +22,10 @@ Wakulima Mart is an e-commerce site that allows farmers to buy farm products at 
    * [Visual Studio ](https://code.visualstudio.com/download)
    * [CSS](http://css.com/)
    * JavaScript
+   * Use of local API server was implemented by creation of a json file,that is db.json that contains all the data items to be rendered by the React App.
+   * The data from the json file is then fetched using the fetch keyword in JavaScript and converted to useable data before being rendered to the DOM. While fetching the data a GET request is performed on the local API and a response is delivered hence data from our json file is successfully renered in the DOM.
+   * The web application also features use of React useStates,UseEffect hooks as well as react Routers to render the cart page, as well as toggling between items using the drop down filter.
+
 
 ## Contact Information
    Email:sylvia.bosire@student.moringaschool.com
