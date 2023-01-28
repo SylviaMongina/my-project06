@@ -13,7 +13,7 @@ Wakulima Mart is an e-commerce site that allows farmers to buy farm products at 
 - [x] Clone the repository using 'https://github.com/SylviaMongina/my-project06.git' or download and extract the zip file.
 - [x] Open up the cloned folder in your preferred text editor. Open up a terminal within your workspace and navigate into the my-project06
 - [x] Within that folder, run `npm install` which will install all dependencies for you then run `npm run server` to run the json-server for your backend.
-- [x]Finally open a new terminal while keeping base URL for your backend running on `http://localhost:3000/mainData` then run `npm start` and if prompted click y or yes thereafter you should get the default react-app running on http://localhost:300 :boom:
+- [x] Finally open a new terminal while keeping base URL for your backend running on `http://localhost:3000/mainData` then run `npm start` and if prompted click y or yes thereafter you should get the default react-app running on http://localhost:300 :boom:
 
 
 ## Technologies Used
