@@ -11,7 +11,7 @@ function Banner({newArray}) {
         <div class=" col-header">
           <h1>WAKULIMA MART</h1>
           <h2>Your Farming Partner </h2>
-          <p>All your farm Chemicals & Equipments in one place  </p>
+          <p>All your farm Products & Equipments in one place  </p>
           <a href="#products"class='btn'>Expore Now &#10142; </a>
         </div>
        

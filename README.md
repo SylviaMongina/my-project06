@@ -4,12 +4,19 @@
 # Introduction 
 Wakulima Mart is an e-commerce site that allows farmers to buy farm products at an affordable price from the comfort of their homes using a phone or laptop on the website.
 ## Screenshots 📸
+A view of the landing page.
+![image](https://user-images.githubusercontent.com/117803357/215287393-d8e2dc41-60c3-488d-b16d-d78a301ce154.png)
+
+
+The filter Function By Category
+![image](https://user-images.githubusercontent.com/117803357/215287485-949c3d39-282e-429a-a78f-c0dc3b87fbf6.png)
+
 
 # Core Deliverables
 As a user 👨‍💻, I can:
 * Be able to filter the product category and choose between filtered products.
-* Be able to view listed items. 
-
+* Be able to view listed items. 3
+* Be able to Add to cart
 # Set Up
 - [x] Clone the repository using 'https://github.com/SylviaMongina/my-project06.git' or download and extract the zip file.
 - [x] Open up the cloned folder in your preferred text editor. Open up a terminal within your workspace and navigate into the my-project06
