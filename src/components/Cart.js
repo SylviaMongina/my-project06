@@ -11,10 +11,10 @@ function Cart({newArray}) {
   //   console.log(updatedArray)
   // })
   
-  function handleDelete(event){
+  // function handleDelete(event){
     
 
-  }
+  // }
 
  function handleChange(event){
      
