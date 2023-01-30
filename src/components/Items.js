@@ -18,8 +18,6 @@ function Items({key,title,image,price,pushItem}) {
    
   }
 
-
-
   return (
     <div className="col-4">
         <img src={image}/>

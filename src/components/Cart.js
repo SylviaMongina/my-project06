@@ -1,6 +1,5 @@
 import React,{useState,useEffect} from 'react'
 import NavBar from './NavBar'
-
 function Cart({newArray}) {
   const [subtotal,setSubtotal]=useState(1)
 
